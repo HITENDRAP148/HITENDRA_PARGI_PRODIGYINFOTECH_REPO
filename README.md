@@ -4,5 +4,6 @@ This repository contains submissions for various cyber security tasks undertaken
 * Caeser CIpher
 * Keylogger
 * Packet sniffer
-* Password strength checker and Pixel manipulation
+* Password strength checker
+*  Pixel manipulation
 * 
